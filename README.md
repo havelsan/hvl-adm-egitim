@@ -14,6 +14,8 @@ Icindekiler :
    ( Bir makinenin bagli oldugu switch bacak numarasini bulma, VLAN ayarlari, Multicast ayarlari, Promiscous Mode, minicom ile seriden bağlanma, inter vlan routing)
    error counts
 
+### [0.2. Routing Firewall DHCP ve DNS  Egitimi](./egitimler/0.2.RoutingVeFirewallAyarlari)
+   
 ## 1. Linux Egitimi
 
 ### 1.1. Temel Linux Egitimi
